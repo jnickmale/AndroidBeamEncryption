@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AndroidBeamEncryption</string>
+    <string-array name="Modes">
+        <item>Send Key</item>
+        <item>Send Encrypted Message</item>
+    </string-array>
+</resources>
